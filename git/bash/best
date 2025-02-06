@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-each "Best School"
-=======
-echo "This school is so cool!"
->>>>>>> main
+echo  "Best School"
